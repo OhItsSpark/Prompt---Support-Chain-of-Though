@@ -1,4 +1,7 @@
+# What would you prefer, a tool that thinks for you or a tool that makes you think
+Quote from: Advait Sarkar
 Based it in the following video: https://www.youtube.com/watch?v=3lPnN8omdPA
+
 Prompt in action:
 
 <img width="1065" height="914" alt="image" src="https://github.com/user-attachments/assets/030bd241-b5bc-4ffa-a722-6c990d9609aa" />
